@@ -1,4 +1,4 @@
-<h1?>Deployemnt 5</h1>
+<h1>Deployemnt 5</h1>
 
 ## Purpose of Deployemnt
 This Deployemnt was created to demostrate how to create an application using Docker, Terraform and pushing this application to ECS(Elastic Container Services)
